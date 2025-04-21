@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{025BE794-D5FF-4EF8-8FC9-6C5EB2F7A83B}|Orden Parcial\\Orden Parcial.vcxproj|C:\\Users\\Bookie\\Desktop\\Orden Parcial\\Orden Parcial\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{025BE794-D5FF-4EF8-8FC9-6C5EB2F7A83B}|Orden Parcial\\Orden Parcial.vcxproj|solutionrelative:Orden Parcial\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025BE794-D5FF-4EF8-8FC9-6C5EB2F7A83B}|Orden Parcial\\Orden Parcial.vcxproj|C:\\Users\\Bookie\\Desktop\\Orden Parcial\\Orden Parcial\\Interfaz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{025BE794-D5FF-4EF8-8FC9-6C5EB2F7A83B}|Orden Parcial\\Orden Parcial.vcxproj|solutionrelative:Orden Parcial\\Interfaz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025BE794-D5FF-4EF8-8FC9-6C5EB2F7A83B}|Orden Parcial\\Orden Parcial.vcxproj|C:\\Users\\Bookie\\Desktop\\Orden Parcial\\Orden Parcial\\Logica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{025BE794-D5FF-4EF8-8FC9-6C5EB2F7A83B}|Orden Parcial\\Orden Parcial.vcxproj|solutionrelative:Orden Parcial\\Logica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,9 +88,35 @@
               "RelativeDocumentMoniker": "Orden Parcial\\Source.cpp",
               "ToolTip": "C:\\Users\\Bookie\\Desktop\\Orden Parcial\\Orden Parcial\\Source.cpp",
               "RelativeToolTip": "Orden Parcial\\Source.cpp",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAkwGkAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-14T23:47:54.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interfaz.h",
+              "DocumentMoniker": "C:\\Users\\Bookie\\Desktop\\Orden Parcial\\Orden Parcial\\Interfaz.h",
+              "RelativeDocumentMoniker": "Orden Parcial\\Interfaz.h",
+              "ToolTip": "C:\\Users\\Bookie\\Desktop\\Orden Parcial\\Orden Parcial\\Interfaz.h",
+              "RelativeToolTip": "Orden Parcial\\Interfaz.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T01:21:01.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logica.h",
+              "DocumentMoniker": "C:\\Users\\Bookie\\Desktop\\Orden Parcial\\Orden Parcial\\Logica.h",
+              "RelativeDocumentMoniker": "Orden Parcial\\Logica.h",
+              "ToolTip": "C:\\Users\\Bookie\\Desktop\\Orden Parcial\\Orden Parcial\\Logica.h",
+              "RelativeToolTip": "Orden Parcial\\Logica.h",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T01:30:26.547Z",
               "EditorCaption": ""
             }
           ]
