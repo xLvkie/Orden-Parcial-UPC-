@@ -1,3 +1,4 @@
 ﻿  Source.cpp
+C:\Users\Bookie\Desktop\Orden Parcial\Orden Parcial\Source.cpp(5,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
   Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
   Orden Parcial.vcxproj -> C:\Users\Bookie\Desktop\Orden Parcial\x64\Debug\Orden Parcial.exe
